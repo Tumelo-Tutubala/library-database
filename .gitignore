@@ -1,4 +1,6 @@
+.vs/
+*.suo
+*.user
+*.vsidx
 *.bak
-*.mdf
-*.ldf
 *.log
